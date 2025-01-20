@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Real-Time Pocket Cube Detection</title>
+        <meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<script data-main="main" src="require.js"></script>
+	</head>
+	
+    <body>
+		<article>
+			<h1>Real-Time Pocket Cube Detection</h1>
+			<video id="video" width="640" height="480" class="qflip" style="display:none;" autoplay></video>
+			<div class="wrapper-center">
+				<canvas id="canvas_stream" width="640" height="480"></canvas>
+			</div>
+			<div style="display:none;">
+				FPS: <span id="info_fps"></span><br/>
+			</div>
+		</article>
+	</body>
+</html>
