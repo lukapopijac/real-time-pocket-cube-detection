@@ -12,15 +12,14 @@ very advanced features from HTML5 and Javascript, some modern browsers will
 not be capable to support this application. The newest version of Chrome
 should be sufficient.
 
-If you have a pocket cube you can try the [app](app).
+If you have a pocket cube you can try the [app](https://lukapopijac.github.io/real-time-pocket-cube-detection/).
 
 For the demo please refer to the following video.
 
-[![Watch on YouTube](video-thumbnail.jpg)](https://www.youtube.com/watch?v=21nog-jvPd8)
-
 <a href="https://www.youtube.com/watch?v=21nog-jvPd8" target="_blank">
-  <img src="video-thumbnail.jpg" alt="Watch on YouTube" width="300">
+  <img src="video-thumbnail.jpg" alt="Watch on YouTube" width="400">
 </a>
+<br><br>
 
 The upper left corner of the stream window shows the time which is spent for
 cube detection on each frame.
